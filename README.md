@@ -21,4 +21,7 @@ This is an Event Management Application built with **Spring Boot** that allows u
 - **Thymeleaf**: Used for front-end rendering.
 - **JPA (Java Persistence API)**: To manage database operations.
 
+## LinkedIn Post
+Check out the LinkedIn post for more details and discussion about this project: [LinkedIn Post Link](https://www.linkedin.com/posts/amr-elsebaey_java-springboot-googlecalendarapi-activity-7252363466110337025-zueF?utm_source=share&utm_medium=member_desktop).
+
 
